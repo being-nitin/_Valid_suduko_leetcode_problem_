@@ -54,3 +54,4 @@ public class Main {
         return true;
     }
 }
+// In this the best approach is to use hashset.
