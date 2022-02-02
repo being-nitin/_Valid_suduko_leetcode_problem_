@@ -55,3 +55,4 @@ public class Main {
     }
 }
 // In this the best approach is to use hashset.
+// array list can be used too.
